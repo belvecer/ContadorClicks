@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContadorClicks</string>
+    <string name="_0">0</string>
+    <string name="_1">- 1</string>
+    <string name="_01">+ 1</string>
+    <string name="reset">Reset</string>
+</resources>
